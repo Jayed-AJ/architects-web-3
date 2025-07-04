@@ -262,6 +262,7 @@ body {
 }
 .footer-img {
     width: 80%;
+    filter: grayscale(100%);
 }
 .address {
     background-color: #FFF4E7;
